@@ -3,6 +3,12 @@
 <h1 align="center">Hey! 👋 It's Jay!</h1>
 
 <p align="center">
+  <a href="https://jaygidwitz.com">
+    <img src="https://img.shields.io/badge/-jaygidwitz.com-4285F4?style=flat-square&logo=googlechrome&logoColor=white" alt="jaygidwitz.com">
+  </a>
+  <a href="https://studioissa.com">
+    <img src="https://img.shields.io/badge/-studioissa.com-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" alt="studioissa.com">
+  </a>
   <a href="https://www.linkedin.com/in/jaygidwitz/">
     <img src="https://img.shields.io/badge/-jaygidwitz-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
   </a>
