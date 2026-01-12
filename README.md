@@ -1,10 +1,19 @@
 [![Header for Jay](https://jaygidwitz.github.io/jaygidwitz/images/1.svg)](https://linkedin.com/in/jaygidwitz)
-<h1 align='center'> Hey! :wave: It's Jay!</h1>
 
-<p align='center'>For inquiries, reach out <a href="https://linkedin.com/in/jaygidwitz">on LinkedIn</a> or over on <a href="https://twitter.com/jaygidwitz">Twitter</a>.</p>
+<h1 align="center">Hey! 👋 It's Jay!</h1>
 
-<!---[![Twitter Badge](https://img.shields.io/badge/-@jaygidwitz-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/jaygidwitz)](https://twitter.com/jaygidwitz) [![Linkedin Badge](https://img.shields.io/badge/-jaygidwitz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaygidwitz/)](https://www.linkedin.com/in/jaygidwitz/) [![Instagram Badge](https://img.shields.io/badge/-jaygidwitz-03a57a?style=flat-square&labelColor=222222&color=222222&logo=Instagram&link=https://instagram.com/jaygidwitz/)](https://instagram.com/jaygidwitz)-->
+<p align="center">
+  <a href="https://www.linkedin.com/in/jaygidwitz/">
+    <img src="https://img.shields.io/badge/-jaygidwitz-0A66C2?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://twitter.com/jaygidwitz">
+    <img src="https://img.shields.io/badge/-@jaygidwitz-000000?style=flat-square&logo=x&logoColor=white" alt="X (Twitter)">
+  </a>
+  <a href="https://instagram.com/jaygidwitz">
+    <img src="https://img.shields.io/badge/-jaygidwitz-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
 
-<p align='center'><a href="https://twitter.com/jaygidwitz" rel="nofollow"><img src="https://camo.githubusercontent.com/a74a9ba3c9e746020ed0ba8c8e62dfdf81e08bc5d84e2bad9db6e49c01655152/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d406a61796769647769747a2d3163613066313f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d316361306631266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f747769747465722e636f6d2f6a61796769647769747a" alt="Twitter Badge" data-canonical-src="https://img.shields.io/badge/-@jaygidwitz-1ca0f1?style=flat-square&amp;labelColor=1ca0f1&amp;logo=twitter&amp;logoColor=white&amp;link=https://twitter.com/jaygidwitz" style="max-width:100%;"></a> <a href="https://www.linkedin.com/in/jaygidwitz/" rel="nofollow"><img src="https://camo.githubusercontent.com/2586f4e3f220d30298e4ba1662b3e956add6be5e22893b78edcf21c2b45f23a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a61796769647769747a2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f6a61796769647769747a2f" alt="Linkedin Badge" data-canonical-src="https://img.shields.io/badge/-jaygidwitz-blue?style=flat-square&amp;logo=Linkedin&amp;logoColor=white&amp;link=https://www.linkedin.com/in/jaygidwitz/" style="max-width:100%;"></a> <a href="https://instagram.com/jaygidwitz" rel="nofollow"><img src="https://camo.githubusercontent.com/01f03a98efe32640c1c8faa89051b5179adf3b57107b0378a1e35f2524f6d359/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a61796769647769747a2d3033613537613f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d32323232323226636f6c6f723d323232323232266c6f676f3d496e7374616772616d266c696e6b3d68747470733a2f2f696e7374616772616d2e636f6d2f6a61796769647769747a2f" alt="Instagram Badge" data-canonical-src="https://img.shields.io/badge/-jaygidwitz-03a57a?style=flat-square&amp;labelColor=222222&amp;color=222222&amp;logo=Instagram&amp;link=https://instagram.com/jaygidwitz/" style="max-width:100%;"></a></p>
+<p align="center">For inquiries, reach out <a href="https://linkedin.com/in/jaygidwitz">on LinkedIn</a> or over on <a href="https://twitter.com/jaygidwitz">X</a>.</p>
 
-<h1 align='center'><i>Stay awesome.</i></h1>
+<h1 align="center"><i>Stay awesome.</i></h1>
